@@ -1,4 +1,4 @@
-# [WebVR Developer's Guide](index.md)
+# [WebVR Developer's Guide](index.yml)
 ## Fundamentals
 ### [What is WebVR?](what-is-webvr.md)
 ### [Hardware](hardware.md)

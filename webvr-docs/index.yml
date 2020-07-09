@@ -1,0 +1,72 @@
+### YamlMime:Landing
+
+title: WebVR developer documentation # < 60 chars
+summary: summary # < 160 chars
+
+metadata:
+  title: WebVR developer documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: description # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: service #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: landing-page # Required
+  ms.collection: collection # Optional; Remove if no collection is used.
+  author: leweaver #Required; your GitHub user alias, with correct capitalization.
+  keywords: developer guide
+  ms.author: leweaver #Required; microsoft alias of author; optional team alias.
+  ms.date: 01/27/2020 #Required; mm/dd/yyyy format.
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: About WebVR
+    linkLists:
+      - linkListType: sample
+        links:
+          - text: Babylon.js sample
+            url: https://www.babylonjs.com/
+      - linkListType: overview 
+        links:
+          - text: What is WebVR?
+            url: /microsoft-edge/webvr/what-is-webvr
+          - text: WebVR Hardware
+            url: /microsoft-edge/webvr/hardware
+          - text: Using WebVR with Microsoft Edge
+            url: /microsoft-edge/webvr/webvr-with-edge
+          - text: WebVR functionality checklist
+            url: /microsoft-edge/webvr/essentials
+          - text: WebVR Resources
+            url: /microsoft-edge/webvr/resources
+      
+  
+  # Card (optional)
+  - title: Development
+    linkLists:
+      - linkListType: overview 
+        links:
+          - text: Input
+            url: /microsoft-edge/webvr/input
+          - text: WebVR in Progressive Web Apps
+            url: /microsoft-edge/webvr/webvr-in-pwas
+          - text: WebVR in WebView
+            url: /microsoft-edge/webvr/webvr-in-webview
+          - text: Demos
+            url: demos.md
+
+  # Card (optional)
+  - title: Ohter resources
+    linkLists:
+      - linkListType: overview 
+        links:
+          - text: Windows Mixed Reality
+            url: //developer.microsoft.com/windows/mixed-reality
+          - text: Immersive headset hardware details
+            url: //developer.microsoft.com/en-us/windows/mixed-reality/immersive_headset_hardware_details
+          - text: W3C WebVR working group
+            url: //github.com/w3c/webvr/blob/master/explainer.md
+          - text: Mixed Reality Community
+            url: //developer.microsoft.com/en-us/windows/mixed-reality/community
+          - text: WebVR Developers on LinkedIn
+            url: //www.linkedin.com/groups/13500607/profile
+      
