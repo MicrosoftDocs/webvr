@@ -3,7 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -33,11 +34,13 @@
       "titleSuffix": "WebVR",
       "ms.topic": "article",
       "ms.prod": "microsoft-edge",
-      "keywords": "webvr, mixed reality, holographic, virtual reality, vr",
       "uhfHeaderId": "MSDocsHeader-MSEdge",
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/webvr",
-      "ms.author": "jken"
+      "breadcrumb_path":  "/archive/microsoft-edge/webvr/breadcrumbs/toc.json",
+      "ms.author": "jken",
+      "ROBOTS": "NOINDEX,NOFOLLOW",
+      "is_archived": true,
+      "feedback_system": "None",
+      "docs_archive": "manual"
     },
     "fileMetadata": {},
     "template": [],
