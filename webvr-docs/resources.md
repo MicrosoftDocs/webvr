@@ -1,4 +1,4 @@
----
+﻿---
 title: WebVR Resources
 description: Resources and Links. 
 ms.date: 09/10/2017
@@ -21,16 +21,16 @@ Here are some links to useful resources and documentation regarding WebVR.
 
 * [WebGL](https://www.khronos.org/webgl/)
 * [Handling Lost Context in WebGL](https://www.khronos.org/webgl/wiki/HandlingContextLost)
-* [Gamepad](http://www.w3.org/TR/gamepad/)
+* [Gamepad](https://www.w3.org/TR/gamepad/)
 * [Gamepad extensions](https://w3c.github.io/gamepad/extensions.html)
-* [PointerLock](http://www.w3.org/TR/pointerlock/)
+* [PointerLock](https://www.w3.org/TR/pointerlock/)
 * [gLTF](https://www.khronos.org/gltf)
 * [Windows Mixed Reality official documentation](https://developer.microsoft.com/en-us/windows/mixed-reality)
 
 ## Libraries
 
-* [A-Frame](http://aframe.io/)
-* [Babylon.JS](http://www.babylonjs.com/)
+* [A-Frame](https://aframe.io/)
+* [Babylon.JS](https://www.babylonjs.com/)
 * [three.js](https://threejs.org/)
 * [ReactVR](https://facebook.github.io/react-vr/)
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Demos
 description: WebVR demo apps. 
 ms.date: 06/29/2018
@@ -88,10 +88,10 @@ If you don't have a VR headset, don't worry&mdash;these demos also work with the
 <br/>
 <br/>
 
-* [Glowing Espilit](http://www.babylonjs.com/demos/glowingespilit/) (modern, open architecture demo) using [Babylon.js](https://www.babylonjs.com/) by Michel Rousseau
+* [Glowing Espilit](https://www.babylonjs.com/demos/glowingespilit/) (modern, open architecture demo) using [Babylon.js](https://www.babylonjs.com/) by Michel Rousseau
     * Open the link, then select the VR button in the bottom right.
 
-<a href="http://www.babylonjs.com/demos/glowingespilit/">
+<a href="https://www.babylonjs.com/demos/glowingespilit/">
     <img src="img/glowing-espilit.png" alt="Modern interior space with glass doors and skylights"/>
 </a>
 

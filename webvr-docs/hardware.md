@@ -1,4 +1,4 @@
----
+﻿---
 title: Hardware
 description: Hardware choices for WebVR development on Windows. 
 ms.date: 11/29/2017
@@ -19,7 +19,7 @@ To view WebVR content on Microsoft Edge, you use a Windows Mixed Reality headset
 
 * [HP Windows Mixed Reality Headset Developer Edition](https://www.microsoft.com/en-us/store/d/hp-windows-mixed-reality-headset-developer-edition/91thzqtvgspf/lpmq)
 
-* [Lenovo Explorer™ immersive headset](http://blog.lenovo.com/en/blog/lenovo-unveils-the-lenovo-explorer-immersive-headset-for-windows-mixed-real)
+* [Lenovo Explorer™ immersive headset](https://blog.lenovo.com/en/blog/lenovo-unveils-the-lenovo-explorer-immersive-headset-for-windows-mixed-real)
 
 * [Dell Mixed Reality Headset](https://blog.dell.com/en-us/dell-mixed-reality-headset-develops-further/).
 
