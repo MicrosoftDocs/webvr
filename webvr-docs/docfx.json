@@ -33,7 +33,7 @@
     "globalMetadata": {
       "titleSuffix": "WebVR",
       "ms.topic": "article",
-      "ms.prod": "microsoft-edge",
+      "ms.service": "microsoft-edge",
       "uhfHeaderId": "MSDocsHeader-MSEdge",
       "breadcrumb_path":  "/archive/microsoft-edge/webvr/breadcrumbs/toc.json",
       "ms.author": "jken",
